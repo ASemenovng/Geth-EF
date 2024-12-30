@@ -1,16 +1,16 @@
 This file explains the fundamental concepts of peer-to-peer (P2P) networking in go-ethereum (geth), exploring its architecture, key components like libp2p and RLP, the discovery protocol, and the challenges faced when designing decentralized network systems.
 
 # How the Peer-to-Peer network works in go-ethereum
-## Введение
-### Что такое go-ethereum (geth)
-### Что такое P2P-сети?
+## Introduction
+### What is go-ethereum (geth)
+### What are P2P networks?
 
 
-## Базовые компоненты P2P сети в Ethereum
-### P2P-протоколы
-#### Discovery Protocol (V4 и V5)
+## Basic components of the P2P network in Ethereum
+### P2P protocols
+#### Discovery Protocol (V4 and V5)
 #### DevP2P Protocol
-### Как P2P работает в Ethereum
+### How P2P works in Ethereum
 
 ```mermaid
 graph TD
@@ -22,19 +22,19 @@ graph TD
 
 ...
 
-## Реализация P2P в go-ethereum
-### Основная архитектура
+## Implementation of P2P in go-ethereum
+### Basic architecture
 #### libp2p
 #### RLP
-### Основные модули P2P в geth
-### Пример работы Peer Discovery
+### The main P2P modules in geth
+### Example of Peer Discovery operation
 
 ...
 
-## Технические вызовы и решения
-### Синхронизация данных
-### Масштабируемость
-### Безопасность
+## Technical challenges and solutions
+### Data Synchronization
+### Scalability
+### Security
 ...
 
-## Заключение
+## Conclusion
