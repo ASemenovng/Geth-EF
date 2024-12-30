@@ -5,22 +5,11 @@ This file explains the fundamental concepts of peer-to-peer (P2P) networking in 
 ### 1.1 What is go-ethereum (geth)
 ### 1.2 What are P2P networks?
 
-
 ## 2. Basic components of the P2P network in Ethereum
 ### 2.1 P2P protocols
 #### 2.1.1 Discovery Protocol (V4 and V5)
 #### 2.1.2 DevP2P Protocol
 ### 2.2 How P2P works in Ethereum
-
-```mermaid
-graph TD
-  A[Node A] -->|Node Discovery| B[Node B]
-  A -->|Sync Request| C[Node C]
-  B -->|Send Block Data| A
-```
-
-
-...
 
 ## 3. Implementation of P2P in go-ethereum
 ### 3.1 Basic architecture
@@ -32,12 +21,9 @@ graph TD
 #### 3.2.3 p2p/server
 ### 3.3 Example of Peer Discovery operation
 
-...
-
 ## 4. Technical challenges and solutions
 ### 4.1 Data Synchronization
 ### 4.2 Scalability
 ### 4.3 Security
-...
 
 ## 5. Conclusion
