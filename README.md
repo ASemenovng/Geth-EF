@@ -13,10 +13,10 @@ This file explains the fundamental concepts of peer-to-peer (P2P) networking in 
 #### DevP2P Protocol
 ### Как P2P работает в Ethereum
 
-  graph TD
-    A[Node A] -->|Node Discovery| B[Node B]
-    A -->|Sync Request| C[Node C]
-    B -->|Send Block Data| A
+graph TD
+  A[Node A] -->|Node Discovery| B[Node B]
+  A -->|Sync Request| C[Node C]
+  B -->|Send Block Data| A
 
 ...
 
