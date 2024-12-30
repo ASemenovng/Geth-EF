@@ -5,7 +5,6 @@ This file explains the fundamental concepts of peer-to-peer (P2P) networking in 
 ### Что такое go-ethereum (geth)
 ### Что такое P2P-сети?
 
-...
 
 ## Базовые компоненты P2P сети в Ethereum
 ### P2P-протоколы
@@ -24,9 +23,18 @@ graph TD
 ...
 
 ## Реализация P2P в go-ethereum
+### Основная архитектура
+#### libp2p
+#### RLP
+### Основные модули P2P в geth
+### Пример работы Peer Discovery
+
 ...
 
 ## Технические вызовы и решения
+### Синхронизация данных
+### Масштабируемость
+### Безопасность
 ...
 
 ## Заключение
