@@ -2,6 +2,9 @@ This file explains the fundamental concepts of peer-to-peer (P2P) networking in 
 
 # How the Peer-to-Peer network works in go-ethereum
 ## 0. Prior knowledge
+1. Пункт
+	- Подпункт
+		* Подподпункт
 - Определить минимальные требования для понимания документа.
  + Базовые знания о блокчейнах (что такое узлы, транзакции, виртуальная машина Ethereum (EVM)).
  + Представление о работе P2P (peer-to-peer) технологий и их роли в децентрализованной сети.
