@@ -27,6 +27,9 @@ graph TD
 #### libp2p
 #### RLP
 ### The main P2P modules in geth
+#### 3.2.1 p2p/discover
+#### 3.2.2 eth/protocols/eth
+#### 3.2.3 p2p/server
 ### Example of Peer Discovery operation
 
 ...
